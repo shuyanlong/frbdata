@@ -51,8 +51,3 @@ the flux--fluence control analysis. These contours supplement the
 marginalized \(H_0\) posteriors shown in the main manuscript and allow the
 relations between \(H_0\) and the nuisance parameters to be inspected.
 
-## Notes
-
-The machine-learning clusters are not interpreted as established physical
-FRB populations. The analysis is intended to test how possible FRB
-substructure and sample composition affect the inferred Hubble constant.
